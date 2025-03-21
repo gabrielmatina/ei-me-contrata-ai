@@ -1,0 +1,36 @@
+# Ambientes Virtuais
+.venv/
+venv/
+
+# Arquivos Sensíveis
+.env
+
+# Cache e Metadados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependências
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos do VSCode e IDEs
+.vscode/
+.idea/
+
+# Logs e Saídas Temporárias
+logs/
+*.log
+
+# Arquivos gerados por testes
+htmlcov/
+.coverage
+pytest_cache/
+
+# Outros
+.DS_Store
+Thumbs.db
+
+
+Test/
