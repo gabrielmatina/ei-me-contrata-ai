@@ -56,7 +56,7 @@ streamlit run app_streamlit.py
 
 ## 📌 **Roadmap do Projeto**
 - ✅ Análise do LinkedIn
-- ✅ Análise do Currículo
+- ⏳ Análise do Currículo
 - ⏳ Otimização do currículo para uma vaga específica (Em desenvolvimento)
 - ⏳ Pontuação de aderência (Em breve)
 - ⏳ Geração de carta de apresentação (Em breve)
